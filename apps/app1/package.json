@@ -124,7 +124,7 @@
         "ember-click-outside": "~5.0.1",
         "ember-concurrency": "~4.0.2",
         "ember-engines": "~0.8.23",
-        "ember-data": "~4.6.4",
+        "ember-data": "~4.12.8",
         "ember-exam": "~6.1.0",
         "ember-event-helpers": "~0.1.1",
         "ember-fn-helper-polyfill": "~1.0.2",

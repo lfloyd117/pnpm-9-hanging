@@ -86,7 +86,7 @@
         "ember-cli-terser": "~4.0.2",
         "ember-cookies": "^1.1.2",
         "ember-concurrency": "~4.0.2",
-        "ember-data": "~4.6.4",
+        "ember-data": "~4.12.8",
         "ember-focus-trap": "~0.6.0",
         "ember-inflector": "~5.0.0",
         "ember-intl": "6.4.0",

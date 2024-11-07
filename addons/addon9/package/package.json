@@ -56,14 +56,14 @@
     "addon6": "workspace:*",
     "addon7": "workspace:*",
     "addon13": "workspace:*",
-    "@ember-data/model": "~4.6.4",
-    "@ember-data/serializer": "~4.6.4",
+    "@ember-data/model": "~4.12.8",
+    "@ember-data/serializer": "~4.12.8",
     "@embroider/addon-shim": "~1.8.9",
     "date-fns": "~2.29.3",
     "date-fns-tz": "~2.0.1",
     "decorator-transforms": "~2.0.0",
     "ember-concurrency": "~4.0.2",
-    "ember-data": "~4.6.4"
+    "ember-data": "~4.12.8"
   },
   "devDependencies": {
     "module5": "workspace:*",

@@ -45,7 +45,7 @@
     "ember-cli-htmlbars": "~6.3.0",
     "ember-cli-string-helpers": "~6.1.0",
     "ember-concurrency": "~4.0.2",
-    "ember-data": "~4.6.4",
+    "ember-data": "~4.12.8",
     "ember-promise-helpers": "~2.0.0"
   },
   "devDependencies": {
