@@ -59,8 +59,6 @@
     "addon12": "workspace:*",
     "addon13": "workspace:*",
     "@embroider/addon-shim": "~1.8.9",
-    "@oecommon/oscar-js": "2.5.91",
-    "@oecommon/plasma-js": "2.1.19",
     "decorator-transforms": "~2.0.0",
     "ember-concurrency": "~4.0.2",
     "ember-lifeline": "~7.0.0",

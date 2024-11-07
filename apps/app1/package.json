@@ -76,8 +76,6 @@
         "@glint/core": "1.4.0",
         "@glint/environment-ember-loose": "1.4.0",
         "@html-next/vertical-collection": "~4.0.2",
-        "@oecommon/oscar-js": "2.5.91",
-        "@oecommon/plasma-js": "2.1.19",
         "@sentry/ember": "7.93.0",
         "@sentry/types": "7.93.0",
         "@sinonjs/fake-timers": "~7.1.2",
